@@ -5,3 +5,6 @@ import = [
 ]
 
 to alacritty.toml
+
+
+![screenshot](readme.png)
