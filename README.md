@@ -1,10 +1,32 @@
-Add:
+Add to alacritty.toml:
 
 import = [
 "path/to/marz.toml"
 ]
 
-to alacritty.toml
+Add marz_zed.json to .config/zed/themes
 
-
-![screenshot](readme.png)
+#080808
+#181616
+#201D1D
+#2C2625
+#322A2A
+#443B3D
+#4C4347
+#7F717D
+#ABA3AE
+#B9BAC6
+#DDE9EE
+#732621
+#AE360A
+#E74F18
+#FF7A33
+#FFA51F
+#FADD8F
+#D2F282
+#94DC41
+#008F62
+#53C6A1
+#4ED8E4
+#EF7192
+#EF3969
