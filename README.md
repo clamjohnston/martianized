@@ -1,9 +1,8 @@
 <div align="center">
-  <a href="https://github.com/ClamJohnston/martianized">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h1 align="center">Martianized</h3>
+  <a href="https://github.com/ClamJohnston/martianized">
+    <img src="https://i.imgur.com/7TSNyUN.png" alt="Colors">
+  </a>
 </div>
 
 ## About The Project
