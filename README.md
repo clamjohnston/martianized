@@ -1,32 +1,22 @@
-Add to alacritty.toml:
+<div align="center">
+  <a href="https://github.com/ClamJohnston/martianized">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-import = [
-"path/to/marz.toml"
-]
+  <h1 align="center">Martianized</h3>
+</div>
 
-Add marz_zed.json to .config/zed/themes
+## About The Project
 
-#080808
-#181616
-#201D1D
-#2C2625
-#322A2A
-#443B3D
-#4C4347
-#7F717D
-#ABA3AE
-#B9BAC6
-#DDE9EE
-#732621
-#AE360A
-#E74F18
-#FF7A33
-#FFA51F
-#FADD8F
-#D2F282
-#94DC41
-#008F62
-#53C6A1
-#4ED8E4
-#EF7192
-#EF3969
+Martianized is a color scheme I created for the Zed text editor. It features a light and dark variant. 
+
+### Installation
+
+Just copy martianized.json into the "themes" folder in Zed's config directory, ex:
+
+~/.config/zed/themes/martianized.json
+
+
+## Acknowledgments
+
+* [Solarized](https://ethanschoonover.com/solarized/) - My primary inspiration for the project
