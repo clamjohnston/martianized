@@ -17,7 +17,9 @@ Just copy martianized.json into the "themes" folder in Zed's config directory, e
 
 ## Samples
 Font shown is [Martian Mono](https://github.com/evilmartians/mono)
+
 [Python and Rust](https://i.imgur.com/p1fdJ2M.png)
+
 [C and Zig](https://i.imgur.com/Rhk2UoA.png)
 
 ## Acknowledgments
