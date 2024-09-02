@@ -20,6 +20,39 @@ Font shown is [Martian Mono](https://github.com/evilmartians/mono)
 
 [![Python and Rust](https://i.imgur.com/7eR6X8d.png)](https://i.imgur.com/Rhk2UoA.png)
 
+## Hex Color Codes
+#181616
+
+#201D1D
+
+#4B3C3A
+
+#514543
+
+#5C515B
+
+#7F717D
+
+#BAB3BC
+
+#DDE9EE
+
+#FFA51F
+
+#FF7A33
+
+#AE360A
+
+#E17F99
+
+#C79EEA
+
+#6B7CEB
+
+#98DDDA
+
+#99DE4A
+
 ## Acknowledgments
 
 * [Solarized](https://ethanschoonover.com/solarized/) - My primary inspiration for the project
