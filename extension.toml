@@ -1,0 +1,7 @@
+id = "martianized-color-scheme"
+name = "Martianized Color Scheme"
+version = "1.0.0"
+schema_version = 1
+authors = ["ClamJohnston"]
+description = "A dark color scheme with a focus on reds, browns, and icy whites."
+repository = "https://github.com/clamjohnston/martianized"
